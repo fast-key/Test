@@ -1,0 +1,401 @@
+/* 1354 resu */
+
+    @media(max-width:1340px)
+    {
+      .Navigation-Main-Box
+      {
+        max-width: 125rem;
+      }  
+      .Header-Sub-Box
+      {
+        max-width: 125rem;
+      }
+      .Hero-font-1
+      {
+        font-size: 2.9rem;
+      }
+      .Introduction-Main-Box
+      {
+        max-width: 125rem;
+      }
+      .Service-Sub-Box-1
+      {
+        max-width: 125rem;
+      }
+      .Contact-Sub-Box
+      {
+        max-width: 125rem;
+      }
+    }
+
+/* end */
+
+/* 1283px */
+    @media(max-width:1283px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 120rem;
+        }
+        .Header-Sub-Box
+        {
+          max-width: 120rem;
+        }
+        .Hero-font-1
+        {
+          font-size: 2.7rem;
+        }
+        .Introduction-Main-Box
+      {
+        max-width: 120rem;
+      }
+      .Service-Sub-Box-1
+      {
+        max-width: 120rem;
+      }
+      .Contact-Sub-Box
+      {
+        max-width: 120rem;
+      }
+    }
+    /* end */
+
+    /* 1198px */
+    @media(max-width:1198px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 115rem;
+        }
+        .Header-Sub-Box
+        {
+          max-width: 113rem;
+        }
+        .Hero-font-1
+        {
+          font-size: 2.6rem;
+        }
+        .Introduction-Main-Box
+      {
+        max-width: 115rem;
+      }
+      .Service-Sub-Box-1
+      {
+        max-width: 113rem;
+      }
+      .Contact-Sub-Box
+      {
+        max-width: 115rem;
+      }
+    }
+    /* end */
+
+    /* 1156 */
+    @media(max-width:1156px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 111rem;
+        }
+        .Header-Sub-Box
+        {
+          max-width: 109rem;
+        }
+        .Hero-font-1
+        {
+          font-size: 2.4rem;
+        }
+        .Introduction-Main-Box
+        {
+          max-width: 111rem;
+        }
+        .Service-Sub-Box-1
+        {
+          max-width: 109rem;
+        }
+        .Contact-Sub-Box
+        {
+          max-width: 111rem;
+        }
+    }
+    /* end */
+    /* 990px */
+    @media(max-width:990px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 95rem;
+        }
+        .Header-Sub-Box
+        {
+          max-width: 90rem;
+        }
+        .Hero-font-1
+        {
+          font-size: 1.7rem;
+        }
+        .Hero-font-2
+        {
+            font-size: 1.5rem;
+        }
+        .Introduction-Main-Box
+        {
+          max-width: 95rem;
+        }
+        .Introduction-font-1
+        {
+            font-size: 1.5rem;
+        }
+        .Introduction-font-2
+        {
+            font-size: 1.4rem;
+        }
+        .Service-font-1
+        {
+            font-size: 1.6rem;
+        }
+        .Service-Sub-Box-1
+        {
+          max-width: 90rem;
+        }
+        .Service-font-3
+        {
+            font-size: 1.5rem;
+        }
+        .Contact-Sub-Box
+        {
+          max-width: 95rem;
+        }
+        .Contact-font-1
+        {
+            font-size: 1.5rem;
+        }
+        .Contact-font-2
+        {
+            font-size: 1.4rem;
+        }
+        .copy
+        {
+            font-size: 1.3rem;
+        }
+    }
+    /* end */
+
+    /* 773px */
+    @media(max-width:773px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 75rem;
+        }
+        .Header-Sub-Box
+        {
+            max-width:70rem ;
+        }
+        .Hero-font-1
+        {
+            font-size: 1.5rem;
+        }
+        .Introduction-Main-Box
+        {
+            max-width: 75rem;
+        }
+        .Service-Sub-Box-1
+        {
+            max-width: 70rem;
+        }
+        .Service-font-2
+        {
+            font-size: 1.9rem;
+        }
+        .Service-font-3
+        {
+            font-size:1.9rem ;
+        }
+        .Contact-Sub-Box
+        {
+          max-width: 70rem;
+        }
+    }
+
+    /* 571px */
+    @media(max-width:571px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 53rem;
+        }
+        .navigation-button
+        {
+            font-size: 2.0rem;
+        }
+        .Header-Sub-Box
+        {
+            max-width: 50rem ;
+        }
+        .Hero-font-1
+        {
+            font-size: 1.1rem;
+        }
+        .Hero-font-2
+        {
+            font-size: 1.0rem;
+        }
+        .Introduction-Main-Box
+        {
+            max-width: 53rem;
+        }
+        .Introduction-Sub-Box-2
+        {
+            display: grid;
+            grid-template-columns: 1fr;
+        }
+        .Service-Sub-Box-1
+        {
+            max-width: 50rem;
+        }
+        .Contact-Sub-Box
+        {
+            max-width: 53rem;
+        }
+    }
+
+    /* 523px */
+    @media(max-width:523px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 49rem;
+        }
+        .navigation-button
+        {
+            font-size: 1.7rem;
+           
+        }
+        .Header-Sub-Box
+        {
+            max-width:45rem ;
+        }
+       .Hero-font-1
+        {
+            font-size: 1rem;
+        }
+        .Introduction-Main-Box
+        {
+            max-width: 49rem;
+        }
+        .Service-Sub-Box-1
+        {
+            max-width: 45rem;
+        }
+        .Service-Sub-Box
+        {
+            display: grid;
+            grid-template-columns: 1fr;
+        }
+        .Contact-Sub-Box
+        {
+            max-width: 49rem;
+        }
+    }
+
+    /* 486px */
+    @media(max-width:486px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 45rem;
+        }
+        .navigation-button
+        {
+            font-size: 1.3rem;
+        }
+        .Header-Sub-Box
+        {
+            max-width:40rem ;
+        }
+        .Introduction-Main-Box
+        {
+            max-width: 45rem;
+        }
+        .Service-Sub-Box-1
+        {
+            max-width: 40rem;
+        }
+        .Contact-Sub-Box
+        {
+            max-width: 45rem;
+        }
+    }
+    /* 438 */
+    @media(max-width:438px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 40rem;
+        }
+        .Sub-box-navi-and-logo
+        {
+            display: flex;
+            flex-direction: column;
+            
+        }
+        .navigation-button
+        {
+            font-size: 1.8rem;
+        }
+        .Header-Sub-Box
+        {
+            max-width: 35rem;
+        }
+        .Introduction-Main-Box
+        {
+            max-width: 40rem;
+        }
+        .Service-Sub-Box-1
+        {
+            max-width: 35rem;
+        }
+        .Contact-Sub-Box
+        {
+            max-width: 40rem;
+        }
+    }
+
+    /* 312px */
+    @media(max-width:312px)
+    {
+        .Navigation-Main-Box
+        {
+            max-width: 29rem;
+        }
+        .navigation-button
+        {
+            font-size: 1.5rem;
+        }
+        .Header-Sub-Box
+        {
+            max-width: 25rem;
+        }
+        .Introduction-Main-Box
+        {
+            max-width: 25rem;
+        }
+        .Introduction-font-3-1
+        {
+            font-size: 4rem;
+        }
+        .Introduction-font-3
+        {
+            font-size: 4rem;
+        }
+        .Service-Sub-Box-1
+        {
+            max-width: 25rem;
+        }
+        .Contact-Sub-Box
+        {
+            max-width: 25rem;
+        }
+  
+    }

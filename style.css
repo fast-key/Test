@@ -1,0 +1,437 @@
+html{
+    font-size: 62.5%;
+    font-family: 'Rubik' ,sans-serif;
+}
+body{
+    background-color: #1D3557;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Logo-Nav{
+    width:18rem;
+    height:14rem;
+}
+
+.Navigation-Main-Box{
+    background-color: #457B9D;
+    max-width: 130rem;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+}
+
+.Sub-box-navi-and-logo{
+    list-style: none;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    gap: 2rem;
+    padding: 0.8rem;
+}
+
+.navigation-button{
+    font-size: 2.4rem;
+    font-weight: 100;
+    text-decoration: none;
+    color:  #ffffff;
+    margin-left: 2rem;
+    
+}
+.navigation-button:hover{
+    transition-delay: 1s;
+    border-bottom: 0.1rem solid #ffffff;
+    cursor: default;
+}
+
+/* Header */
+
+.Header-Sub-Box{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    max-width: 130rem;
+    margin: 0 auto;
+     justify-items: center;
+    align-items: center;
+    background-color: #457B9D;
+    padding: 2rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+
+.Hero-font-1{
+    font-size: 3.1rem;
+    font-weight: 300;
+    font-family: 'Rubik' ,sans-serif ;
+    color: #ffffff;
+}
+.Hero-font-2{
+    font-size: 2.2rem;
+    font-weight: 200;
+    font-family: 'Rubik' ,sans-serif ;
+    color: #ffffff;
+    margin-bottom: 4rem;
+}
+.Button-Header{
+    padding: 0.5rem;
+    font-size: 2rem;
+    font-family: 'Rubik' , sans-serif;
+    border-radius: 0.5rem;
+    border: 0.1rem solid black;
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #E63946;
+    cursor:default;
+}
+.Button-Header:active{
+    opacity: 0.9;
+    font-weight: 700;
+    
+}
+
+.Hero-Photo-Box{
+    justify-items: center;
+}
+
+.Hero-photo{
+    width: 50%; 
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+}
+/* ================================================= */
+
+.Introduction-Main-Box{
+    max-width: 130rem;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+}
+.Introduction-Font-Main-Box{
+    background-color: #457B9D;
+    color: #ffffff;
+    padding: 1rem;
+    padding: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+.Introduction-font-1{
+    font-size: 3rem;
+    font-weight: 300;
+    
+}
+.Introduction-font-2{
+    font-size: 2.5rem;
+    font-weight: 300;
+}
+.Introduction-Sub-Box-2{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+   justify-items: center;
+    gap: 2rem;
+    background-color: #457B9D;
+    padding: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+.Introduction-font-3-1{
+    color: #ffffff;
+    font-size: 8rem;
+    font-weight: 400;
+    font-family: 'Rubik' , sans-serif;
+    background-color: #1D3557;
+    padding: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+.Introduction-font-3{
+    color: #ffffff;
+    font-size: 8rem;
+    font-weight: 400;
+    font-family: 'Rubik' , sans-serif;
+}
+.Introduction-Sub-Box-3
+{
+    max-width: 130rem;
+    margin: 0 auto;
+    background-color: #457B9D;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    padding: 1rem;
+}
+.Introduction-font-4
+{
+    font-size: 4rem;
+    font-family:  'Dancing Script', sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+/* ====================================================== */
+/* Service */
+.Service-Sub-Box-1{
+    background-color: #457B9D;
+    max-width: 130rem;
+    margin: 0 auto;
+    padding: 2rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+.Service-font-1{
+    font-size: 4rem;
+    font-family: 'Rubik' , sans-serif;
+    font-weight: 300;
+    text-align: left;
+    max-width: 130rem;
+    margin: 0 auto;
+    color: #ffffff;
+}
+.Service-Sub-Box{
+    max-width: 130rem;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 1rem;
+    margin-bottom: 4rem;
+
+}
+.Service-button{
+    text-decoration: none;
+}
+.Service-button:hover{
+    opacity: 0.8;
+}
+.Service-Photo{
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 3rem black;
+    border-radius: 1rem;
+}
+.Service-font-2{
+    font-size: 3rem;
+    font-weight: 300;
+    font-family: 'Rubik' , sans-serif;
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+}
+.Service-font-3{
+    font-size: 3rem;
+    font-weight: 300;
+    font-family: 'Rubik' , sans-serif;
+    text-decoration: none;
+  
+    color: #ffffff;
+}
+/* ================================== */
+
+/* Contacts */
+.Contact-Sub-Box
+{
+    max-width: 130rem;
+    margin: 0 auto;
+    padding: 1rem;
+    background-color: #457B9D;
+    color: #ffffff;
+    text-align: center;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+
+.Contact-font-1
+{
+    font-size: 4rem;
+    font-family: 'Rubik' , sans-serif;
+    font-weight: 300;
+}
+.Contact-font-2
+{
+    font-size: 4rem;
+    font-family: 'Rubik' , sans-serif;
+    font-weight: 300;
+}
+.copy
+{
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+/* End of Index.html */
+
+/* Service-desk.html */
+
+/* Service-desk-main-box */
+
+.Service-desk-main-box
+{
+    max-width: 130rem;
+    margin: 0 auto;
+}
+
+.Service-desk-sub-box
+{
+    background-color: #457B9D;
+    color: #ffffff;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.Service-desk-font-1
+{
+    font-size: 4rem;
+    font-weight: 400;
+
+}
+.Service-desk-font-2
+{
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 2rem;
+}
+/* end */
+
+/* Model */
+.Model-service-sub-box
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    row-gap: 1rem;
+    column-gap: 4rem;
+
+    background-color: #457B9D;
+    color: #ffffff;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+
+    max-width: 130rem;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+}
+.Service-photo
+{
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+}
+/* end */
+/* Network */
+.Network-title-sub-box
+{
+    background-color: #457B9D;
+    color: #ffffff;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+
+    max-width: 130rem;
+    margin: 0 auto;
+    margin-bottom: 4rem;
+}
+.Network-font1
+{
+    font-size: 4rem;
+    font-weight: 400;
+}
+.Network-font2
+{
+    font-size: 3rem;
+    font-weight: 200;
+}
+.Network-main-box
+{
+    max-width: 130rem;
+    margin: 0 auto;
+    background-color: #457B9D;
+    color: #ffffff;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+.Network-sub-box
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
+    row-gap: 2rem; 
+}
+.Network-photo
+{
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+}
+/* end */
+
+/* web-dev */
+.web-dev-main-box
+{
+    margin-bottom: 4rem;
+}
+.web-dev-sub-box
+{
+    max-width: 130rem;
+    margin: 0 auto;
+    background-color: #457B9D;
+    color: #ffffff;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+  
+}
+.web-dev-font1
+{
+    font-size: 4rem;
+    font-weight: 400;
+}
+.web-dev-font2
+{
+    font-size: 3rem;
+    font-weight: 200;
+    line-height: 2rem;
+}
+.Web-dev-sub-box
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
+    row-gap: 2rem;
+    max-width: 130rem;
+    margin: 0 auto;
+    background-color: #457B9D;
+    color: #ffffff;
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+    border-radius: 1rem;
+    margin-bottom: 4rem;
+}
+.web-dev-photo
+{
+    width: 100%;
+    border-radius: 1rem;
+    box-shadow: 1rem 1rem 2rem black;
+}
+/* end */
